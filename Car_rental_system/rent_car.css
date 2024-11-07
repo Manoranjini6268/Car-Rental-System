@@ -1,0 +1,28 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width:100vw;
+    height:100vh;
+    display:flex;
+    justify-content:right;
+    align-items:center ;
+    flex-direction: column;
+    gap:40px;
+}
+input{
+    margin:6px 40px;
+}
+#submit{
+    margin:20px 90px;
+    padding:3px;
+}
+.benz{
+    margin-top:-35px;
+}
+h1{
+    font-family: algerian;
+}
